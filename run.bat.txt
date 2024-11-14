@@ -1,0 +1,2 @@
+cd E:\cucumber\day59\opencart_cucumber\opencart_cucumber
+mvn test
